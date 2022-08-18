@@ -1,7 +1,12 @@
-/* 
-
-  This is a placeholder file. You can generate this file using this page:
-  
-  https://cloud.google.com/docs/authentication/getting-started
-  
- */
+{
+  "type": "service_account",
+  "project_id": "chatfuel-chatbot-359818",
+  "private_key_id": "9578a91eee0bb9b6534be1597f06573ca5d93627",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4M30+/vh9t5nc\n1S3S8dCVGimyoi1+kx735jWilrHqVIOECJl3nvogOd2kjUWvsOt/UccTWtAQ/K/V\nlP4GpOYOHzoyMWm3wQN+wdXPU6L48QTYsiFaw+7OkpT6JhH2juwcxXAy9TGF8Rln\nCY+YdImsdbdupID52SQr34rCTpoNn6iEcB59dSG1TRS6px+ZJRh44+KPnxeVLCbA\nvG47cGYQiNl/NhIAGgB+4aY7lBsiq+4k0nFuL4caVZgJWSjZgxJDu8aerp8dVV0o\nZmQjKYL5fn9fA9YQTwRqinQ4oHc5lhTSivxq7b0KWprDesDT3LTTfAbTU3bj5Whj\nT9oS6yhzAgMBAAECggEAECZjisxsGQmp8dS3CdGtygTbNxBFEN3xTybd+P1hZ/w0\n87SVUAmeQIkSR8UjIP5QB3+yBp5ls7eT6xP/GbIHgaF3RsNSU4wWtFxmVKEunsjy\n9dTYW87l9zKe4TfJR2bMiNE+vxkEWIwFACW0c1d0YqyHgqnlrQI+y6Hz1olxtFPu\nrEDq1h59GFZi5Xtsew33YTMMccH5ABmaf67AstxvJwI+RZUoITlBciIxpJkcdCBO\nUm07Qy10nAmBKcAXC0yeTug5TmqYB3I10j5S5d8DGQmG+REmrJKj8OB9bMoUp+4U\n8QbAqO32R86uegmZstxjFyDVChk5ECHFuqS12KfkkQKBgQD/U3sw08tuOTpu/7Tt\nWZoEfrmk5buWGO7v36nx+uPmVPhB8Y0bBLvzRzXT/0J6YcrikacyauoFrE2UzZsJ\nYLnQnwrYNvPp7+bSqxB6Ay7vCkDWdLNcfqxTvHDu1U+HLjNqTHKC42n6aNMEmljB\n3pFJn/63DZaZjV/VtLu7g+4xHQKBgQC4r/NGogenPYs9wALFhKtQmyjUwCV/ygBU\nIzjIofrPmJLDOQkIhMufHD4kcdZv9SZwOz3iDrvvrQYWg2qvULQn6bljBAZWooF2\nxu4lGqLxq9lqbQbL01Y2+8fMQkeyBs7j8ozzFVfHAeYdZAcv20WhCtxhMhQMDtgA\ncPy1Ff6azwKBgCLcTxGXmUrvXV8SYq2VckXy134AL+CKfvUZYKa9TqiAKXU3ecCa\noN7SdjL/wx/agkz0/hMQLeugXudWOzjIkBY/4McsmZjzPFy/JnzCOoJAsCGXxXV3\nhifYrsKtNTKLyFFXJrtgOXQLI+SY/k1aChQ3WBu+KzXD67XN+2Pa24axAoGACptw\naXoc3moWeTFx904rWLHQood2n+RGKI7tT/idoxasNzIrZqXZ3AWPPCCdpEh8MK32\nW+lkudtCIkDh+7ey4Sf3UcyFYKxsqxm5y7+/5Alur0IbxdEZfobvbrfPzlW9xDHG\nDqAHLpLZWI7KKuF5Gkq5ZYuuwxKHLV9P5EajHNkCgYEAoczdip7kfWcIMZWs1Up4\nsQng5lwwhxASqF2VXlMYeDHcHNu9hqxA20LbB/8XzVzGsIPIy2iOxH61l+XoZPPz\n3tQUmv1TscBJG+KXEMChyMsQ1YJMjoCQNNiw4WtjVtv18Lobj9rawWRgaUxC6cgI\n90NAj+6cC1PYH3l/aAmne78=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatfuel-chatbot@chatfuel-chatbot-359818.iam.gserviceaccount.com",
+  "client_id": "106830063425426069474",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatfuel-chatbot%40chatfuel-chatbot-359818.iam.gserviceaccount.com"
+}
